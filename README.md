@@ -89,6 +89,10 @@ streamlit run app.py
 Step 2: Interact with the Chatbot
 Open your web browser and navigate to the provided local URL (typically http://localhost:8501). Start chatting with the AI-powered assistant!
 
+
+Detailed Tutorial : https://youtu.be/8HmE1VEthbw?feature=shared
+
+
 Contributing
 We welcome contributions! Please fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
